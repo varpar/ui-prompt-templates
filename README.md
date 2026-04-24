@@ -73,6 +73,6 @@ Without both, you're rolling dice. With both, you're delegating taste instead of
 
 ## Credits
 
-Prepared by [Varun Parmar](https://linkedin.com/in/varunparmar) · [varun@gradeless.ai](mailto:varun@gradeless.ai)
+Prepared by [Varun Parmar](https://www.linkedin.com/in/parmar-varun/) · [varunparmarwork@gmail.com](mailto:varunparmarwork@gmail.com)
 
 Shared under a permissive license — fork, remix, use in client projects, no attribution required.
